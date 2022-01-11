@@ -1,0 +1,31 @@
+Feature,Min,Max
+atomic number,1,118
+atomic radius,79,299
+atomic volume,4.6,70
+boiling point,4.216,5930
+density,0.0708,22.57
+dipole polarizability,1.38375,400.9
+lattice constant,2.29,10.47
+melting point,0.95,3820
+specific heat,0.094,5.188
+vdw radius,110,348
+covalent radius cordero,28,260
+covalent radius pyykko,32,232
+en pauling,0.7,3.98
+heat of formation,61.38,851
+covalent radius slater,25,260
+vdw radius uff,236.2,490
+vdw radius mm3,153,364
+abundance crust,4.00E-13,461000
+en ghosh,0.08731,0.442712
+vdw radius alvarez,120,348
+c6 gb,1.47,6660
+atomic weight,1.008,294
+atomic radius rahm,134,293
+covalent radius pyykko double,57,218
+mendeleev number,1,118
+pettifor number,1,103
+glawe number,1,103
+Formation energy [eV/atom],-3.844,0.947
+Vacancy energy [eV/O atom],-18.683,6.962
+Band gap [eV],0,6.221

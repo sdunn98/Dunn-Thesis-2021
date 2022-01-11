@@ -1,0 +1,55 @@
+,Formation energy [eV/atom],Vacancy energy [eV/O atom],Band gap [eV]
+0,A vdw radius,B covalent radius pyykko,A en ghosh
+1,A atomic number,A pettifor number,A lattice constant
+2,B covalent radius slater,B vdw radius alvarez,A density
+3,A covalent radius pyykko double,B atomic number,A vdw radius uff
+4,A atomic weight,A vdw radius,B atomic radius rahm
+5,B dipole polarizability,B atomic weight,B covalent radius cordero
+6,B vdw radius mm3,A abundance crust,B lattice constant
+7,B covalent radius pyykko,A covalent radius slater,A atomic weight
+8,B en ghosh,A covalent radius pyykko,B boiling point
+9,A lattice constant,B vdw radius,A covalent radius pyykko
+10,A atomic volume,A lattice constant,A c6 gb
+11,A specific heat,A atomic weight,A atomic number
+12,B atomic weight,B vdw radius mm3,B atomic number
+13,A covalent radius slater,A vdw radius uff,B en ghosh
+14,B vdw radius alvarez,B atomic radius rahm,B atomic weight
+15,B atomic number,B en ghosh,B melting point
+16,B vdw radius,A covalent radius cordero,A specific heat
+17,B melting point,A atomic number,A melting point
+18,B heat of formation,A en pauling,A atomic volume
+19,B atomic radius,A dipole polarizability,B vdw radius alvarez
+20,B c6 gb,B specific heat,B covalent radius pyykko
+21,B atomic volume,B density,A atomic radius rahm
+22,B lattice constant,B atomic radius,A covalent radius slater
+23,B boiling point,A glawe number,A dipole polarizability
+24,A vdw radius uff,B covalent radius cordero,A abundance crust
+25,A covalent radius cordero,A atomic radius,A vdw radius alvarez
+26,B covalent radius cordero,B dipole polarizability,B vdw radius uff
+27,A density,B lattice constant,B abundance crust
+28,B density,A vdw radius alvarez,A boiling point
+29,B specific heat,A specific heat,A vdw radius
+30,A boiling point,A mendeleev number,B c6 gb
+31,A dipole polarizability,B glawe number,A heat of formation
+32,A atomic radius,A atomic radius rahm,B specific heat
+33,A heat of formation,B mendeleev number,A covalent radius cordero
+34,A abundance crust,B boiling point,A atomic radius
+35,A en ghosh,B abundance crust,B covalent radius slater
+36,B covalent radius pyykko double,A en ghosh,A mendeleev number
+37,B vdw radius uff,A density,A pettifor number
+38,B glawe number,B c6 gb,B dipole polarizability
+39,A melting point,A boiling point,B atomic volume
+40,A mendeleev number,B pettifor number,B vdw radius mm3
+41,A vdw radius alvarez,B en pauling,B density
+42,B abundance crust,A heat of formation,A vdw radius mm3
+43,B mendeleev number,B atomic volume,A covalent radius pyykko double
+44,B pettifor number,A c6 gb,B heat of formation
+45,A vdw radius mm3,B heat of formation,B atomic radius
+46,B atomic radius rahm,A atomic volume,A en pauling
+47,A covalent radius pyykko,A melting point,B covalent radius pyykko double
+48,A atomic radius rahm,B vdw radius uff,B vdw radius
+49,A pettifor number,B melting point,A glawe number
+50,A glawe number,A covalent radius pyykko double,B pettifor number
+51,A c6 gb,B covalent radius slater,B glawe number
+52,B en pauling,A vdw radius mm3,B mendeleev number
+53,A en pauling,B covalent radius pyykko double,B en pauling
